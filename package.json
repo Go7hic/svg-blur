@@ -1,6 +1,6 @@
 {
   "name": "svg-blur",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "使用svg生成夸浏览器的高斯模糊图片",
   "main": "index.js",
   "scripts": {
