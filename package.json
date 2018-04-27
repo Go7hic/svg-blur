@@ -1,0 +1,20 @@
+{
+  "name": "svg-blur",
+  "version": "1.0.0",
+  "description": "使用svg生成夸浏览器的高斯模糊图片",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyygtfx/svg-blur.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyygtfx/svg-blur/issues"
+  },
+  "homepage": "https://github.com/dyygtfx/svg-blur#readme"
+}
