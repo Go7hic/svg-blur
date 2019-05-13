@@ -1,5 +1,7 @@
 # svg-blur
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dyygtfx/svg-blur.svg)](https://greenkeeper.io/)
+
 使用svg生成夸浏览器的高斯模糊图片
 
 ## 使用
